@@ -1,0 +1,296 @@
+.banner {
+    padding: 30px 150px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+}
+
+.banner .picture {
+    width: 350px;
+
+}
+
+.heading {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800px;
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    font-weight: 500;
+    padding: 20px 43px;
+    align-items: flex-start;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 10px 
+    
+    
+}
+
+.delivery-box {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: auto;
+    padding: 90px 70px;
+    width: 80%
+}
+
+.delivery {
+    margin: 140px 0px;
+}
+
+.heading-three {
+    color: #272727;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+.paragraph-two {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: 2px;
+
+}
+
+.banner-container {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 100px;
+    margin: 120px 0px;
+}
+
+.img-57 {
+    width: 88px;
+    height: 88px;
+}
+
+.banner-two {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 30px 150px;
+    align-items: center;
+    display: flex;
+    padding-top: 100px;
+}
+
+.heading-title {
+    color: #272727;
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.off {
+    color: #E55473;
+}
+
+.discribe {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.pngwing {
+    width: 200px;
+    height: 300px;
+}
+
+.instagram {
+    color: #272727;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 150px;
+    margin-bottom: 5px;
+}
+
+.instagram-discribe {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 10px;
+    font-weight: 300;
+
+}
+
+
+
+.box img {
+    width: 342px;
+    height: 396px;
+
+}
+
+
+.banner-box {
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    padding: 100px;
+    text-align: center;
+    padding: auto;
+    margin-right: 250px;
+}
+
+
+
+.last-banner {
+    background-image: url('../img/Rectangle\ 9.png');
+    width: 1440px;
+    height: 449px;
+    text-align: center;
+    padding-right: 150px;
+
+
+}
+
+.last-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 50px;
+
+
+
+}
+
+.last-ph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 2px;
+
+
+}
+
+.email-type {
+    border-radius: 8px;
+    background: #FFF;
+    width: 550px;
+    height: 35px;
+}
+
+.last-container {
+    background-color: #111010;
+    width: 1200px;
+    height: 300px;
+    margin: 0px auto;
+}
+
+.shop {
+    color: #E55473;
+
+}
+
+.thik {
+    color: white;
+}
+
+.comfortable {
+    font-size: 27px;
+    font-weight: 200px;
+    text-align: center;
+    margin-top: 75px;
+    padding-top: 100px;
+
+}
+
+.end-ph {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.new-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 100px;
+    padding-top: 1px;
+
+
+}
+
+.row {
+    position: relative;
+}
+
+.row img {
+    width: 75%;
+    height: 200;
+
+    align-items: center;
+}
+
+
+
+.Featured-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.Featured-discription {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.Featured-box {
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+
+.Featured-box {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 364px;
+    height: 438px;
+}
+.title{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 32px;
+    
+}
